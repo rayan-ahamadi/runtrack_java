@@ -22,7 +22,7 @@ public class MotsUnique {
                    it += 1;
                }
            }
-           
+
             if (it < 2){
                 listUnique.add(unMot);
             }
