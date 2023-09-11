@@ -29,6 +29,5 @@ public class CompteBancaire {
         myCompte.depot(50);
         myCompte.retrait(70);
         myCompte.retrait(90);
-
     }
 }
